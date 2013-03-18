@@ -50,3 +50,4 @@ Dejela ir
 1.  Si es evidente su cacografía, déjela ir.
 1.  Si saluda: “Holiiiiiiiiiiiiiiiiiii”, déjela ir.
 1.  Si no disfruta los pequeños placeres de la vida, déjela ir.
+2.  Si no te llama dejala ir.
